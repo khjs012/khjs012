@@ -57,9 +57,6 @@
 ### 📈 GitHub 活跃度 | Activity
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=khjs012&theme=rose_pine" width="80%" />
-  <br/>
-  <!-- 活跃度下方：保持 launch.jpg -->
-  <img src="assets/launch.jpg" width="200" alt="Launch" />
 </div>
 
 ---
