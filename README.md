@@ -1,4 +1,4 @@
-# 👋 这里是惠 一个简简单单的二次元 <img src="assets/elysia_aemis.jpg" height="40" alt="Elysia & Aemis" /> ✨
+# 👋 这里是惠 <img src="assets/elysia_aemis.jpg" height="40" alt="Elysia & Aemis" /> ✨
 
 ---
 
