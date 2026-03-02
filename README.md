@@ -1,14 +1,20 @@
-# 👋 Hello, I'm khjs012 ✨
+# 👋 你好，我是 慧慧 ✨
 
 <div align="center">
-  <!-- 动态小人：爱莉希雅 (Elysia) 动态 GIF -->
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHY1Ym05Y3ZpZzB4bmN0Ym1ueXp4Y3ZpZzB4bmN0Ym1ueXp4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1z/vW8R8N5N9N5N9N5N9N5/giphy.gif" width="220" alt="Elysia Dancing" />
+  <!-- 动态看板娘 -->
+  <img src="assets/elysia_1.gif" width="220" alt="Elysia Dancing" />
   
   <br/>
   
-  <!-- 统计卡片：调整为粉色主题以匹配爱莉希雅 -->
-  <img src="https://github-readme-stats.vercel.app/api?username=khjs012&show_icons=true&theme=rose_pine&count_private=true" alt="khjs012's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khjs012&layout=compact&theme=rose_pine" alt="Top Languages" />
+  <!-- 角色展示墙 -->
+  <p>
+    <img src="assets/aemis_1.gif" width="280" alt="Aemis" />
+    <img src="assets/elysia_2.gif" width="280" alt="Elysia" />
+  </p>
+  
+  <p>
+    <img src="assets/elysia_aemis.jpg" width="570" alt="Elysia and Aemis" />
+  </p>
 </div>
 
 ---
@@ -17,7 +23,7 @@
 - 🔭 我目前正在开发 **[ok-wuthering-waves](https://github.com/khjs012/ok-wuthering-waves)** 🌊
 - 🌱 学习领域：**Python, 计算机视觉, UI 自动化**
 - 💬 欢迎交流：**游戏脚本开发, 自动化, GitHub 工作流**
-- ✨ **"Hi~ 想我了吗？♪"** —— *Elysia*
+- ✨ **"Hi~ 想我了吗？♪"** —— *爱莉希雅*
 
 ---
 
@@ -53,7 +59,6 @@
 </p>
 
 <div align="center">
-  <!-- 底部装饰：爱莉希雅与爱弥斯风格装饰 -->
   <p>✨ <i>"May the beauty of the world be with you."</i> ✨</p>
   <img src="https://komarev.com/ghpvc/?username=khjs012&color=ff69b4" alt="Profile Views" />
 </div>
