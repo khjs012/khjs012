@@ -1,4 +1,4 @@
-# 👋 你好，我是 慧慧 <img src="assets/launch.jpg" height="40" alt="Launch" /> ✨
+# 👋 你好，我是 慧慧 <img src="assets/elysia_aemis.jpg" height="40" alt="Elysia & Aemis" /> ✨
 
 ---
 
@@ -7,8 +7,8 @@
   <table border="0" cellpadding="0" cellspacing="0" align="center">
     <tr>
       <td align="left" valign="middle">
-        <!-- 左边：启动表情包 -->
-        <img src="assets/launch.jpg" width="120" alt="Launch" />
+        <!-- 左边：换回 aemis_1.gif -->
+        <img src="assets/aemis_1.gif" width="120" alt="Aemis" />
       </td>
       <td align="center" valign="middle" style="padding: 0 20px;">
         <p>
@@ -58,8 +58,8 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=khjs012&theme=rose_pine" width="80%" />
   <br/>
-  <!-- 活跃度下方：别难过表情包 (aemis_1.gif) -->
-  <img src="assets/aemis_1.gif" width="200" alt="Don't be sad" />
+  <!-- 活跃度下方：保持 launch.jpg -->
+  <img src="assets/launch.jpg" width="200" alt="Launch" />
 </div>
 
 ---
