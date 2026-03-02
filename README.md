@@ -1,44 +1,43 @@
 # 👋 你好，我是 慧慧 ✨
 
-<div align="center">
-  <!-- 动态看板娘 -->
-  <img src="assets/elysia_1.gif" width="220" alt="Elysia Dancing" />
-  
-  <br/>
-  
-  <!-- 角色展示墙 -->
-  <p>
-    <img src="assets/aemis_1.gif" width="280" alt="Aemis" />
-    <img src="assets/elysia_2.gif" width="280" alt="Elysia" />
-  </p>
-  
-  <p>
-    <img src="assets/elysia_aemis.jpg" width="570" alt="Elysia and Aemis" />
-  </p>
+<div align="right">
+  <!-- 右侧放置爱莉希雅动态看板娘 -->
+  <img src="assets/elysia_1.gif" width="180" alt="Elysia Dancing" />
 </div>
 
 ---
 
 ### 🌸 关于我 | About Me
-- 🔭 我目前正在开发 **[ok-wuthering-waves](https://github.com/khjs012/ok-wuthering-waves)** 🌊
-- 🌱 学习领域：**Python, 计算机视觉, UI 自动化**
-- 💬 欢迎交流：**游戏脚本开发, 自动化, GitHub 工作流**
-- ✨ **"Hi~ 想我了吗？♪"** —— *爱莉希雅*
+<div align="left">
+  <img src="assets/aemis_1.gif" width="220" align="right" />
+  <p>
+    - 🔭 我目前正在开发 <b><a href="https://github.com/khjs012/ok-wuthering-waves">ok-wuthering-waves</a></b> 🌊<br/>
+    - 🌱 学习领域：<b>Python, 计算机视觉, UI 自动化</b><br/>
+    - 💬 欢迎交流：<b>游戏脚本开发, 自动化, GitHub 工作流</b><br/>
+    - ✨ <b>"Hi~ 想我了吗？♪"</b> —— <i>爱莉希雅</i>
+  </p>
+</div>
 
 ---
 
 ### 🛠️ 技术栈 | Tech Stack
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-</p>
+<div align="center">
+  <p>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+    <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" />
+    <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  </p>
+  <img src="assets/elysia_2.gif" width="250" />
+</div>
 
 ---
 
 ### 📈 GitHub 活跃度 | Activity
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=khjs012&theme=rose_pine)
+<div align="left">
+  <img src="assets/elysia_aemis.jpg" width="400" align="right" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=khjs012&theme=rose_pine" width="450" />
+</div>
 
 ---
 
