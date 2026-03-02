@@ -1,26 +1,34 @@
-# 👋 你好，我是 慧慧 ✨
-
-<div align="right">
-  <!-- 右侧放置爱莉希雅动态看板娘 -->
-  <img src="assets/elysia_1.gif" width="180" alt="Elysia Dancing" />
-</div>
+# 👋 你好，我是 慧慧 <img src="assets/elysia_1.gif" height="40" alt="Love" /> ✨
 
 ---
 
 ### 🌸 关于我 | About Me
-<div align="left">
-  <img src="assets/aemis_1.gif" width="220" align="right" />
-  <p>
-    - 🔭 我目前正在开发 <b><a href="https://github.com/khjs012/ok-wuthering-waves">ok-wuthering-waves</a></b> 🌊<br/>
-    - 🌱 学习领域：<b>Python, 计算机视觉, UI 自动化</b><br/>
-    - 💬 欢迎交流：<b>游戏脚本开发, 自动化, GitHub 工作流</b><br/>
-    - ✨ <b>"Hi~ 想我了吗？♪"</b> —— <i>爱莉希雅</i>
-  </p>
+<div align="center">
+  <table border="0" cellpadding="0" cellspacing="0" align="center">
+    <tr>
+      <td align="left" valign="middle">
+        <!-- 左边：别难过表情包 (Aemis) -->
+        <img src="assets/aemis_1.gif" width="120" alt="Don't be sad" />
+      </td>
+      <td align="center" valign="middle" style="padding: 0 20px;">
+        <p>
+          🔭 我目前正在开发 <b><a href="https://github.com/khjs012/ok-wuthering-waves">ok-wuthering-waves</a></b> 🌊<br/>
+          🌱 学习领域：<b>Python, 计算机视觉, UI 自动化</b><br/>
+          💬 欢迎交流：<b>游戏脚本开发, 自动化, GitHub 工作流</b><br/>
+          ✨ <b>"Hi~ 想我了吗？♪"</b> —— <i>爱莉希雅</i>
+        </p>
+      </td>
+      <td align="right" valign="middle">
+        <!-- 右边：粉头发角色挠头 (Elysia) -->
+        <img src="assets/elysia_2.gif" width="120" alt="Elysia Scratching Head" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
 
-### 🛠️ 技术栈 | Tech Stack
+### 🛠️ 技术栈 | Tech Stack <img src="assets/elysia_1.gif" height="30" alt="Cat" />
 <div align="center">
   <p>
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -28,15 +36,15 @@
     <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" />
     <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
   </p>
-  <img src="assets/elysia_2.gif" width="250" />
 </div>
 
 ---
 
 ### 📈 GitHub 活跃度 | Activity
-<div align="left">
-  <img src="assets/elysia_aemis.jpg" width="400" align="right" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=khjs012&theme=rose_pine" width="450" />
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=khjs012&theme=rose_pine" width="80%" />
+  <br/>
+  <img src="assets/elysia_aemis.jpg" width="60%" />
 </div>
 
 ---
