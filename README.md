@@ -1,4 +1,4 @@
-# 👋 你好，我是 慧慧 <img src="assets/elysia_aemis.jpg" height="40" alt="Elysia & Aemis" /> ✨
+# 👋 这里是惠 一个简简单单的二次元 <img src="assets/elysia_aemis.jpg" height="40" alt="Elysia & Aemis" /> ✨
 
 ---
 
@@ -12,7 +12,7 @@
       </td>
       <td align="center" valign="middle" style="padding: 0 20px;">
         <p>
-          🔭 我目前正在开发 <b><a href="https://github.com/khjs012/ok-wuthering-waves">ok-wuthering-waves</a></b> 🌊<br/>
+          🔭 潮起无声，潮落生鸣。 🌊<br/>
           🌱 学习领域：<b>Python, 计算机视觉, UI 自动化</b><br/>
           💬 欢迎交流：<b>游戏脚本开发, 自动化, GitHub 工作流</b><br/>
           ✨ <b>"Hi~ 想我了吗？♪"</b> —— <i>爱莉希雅</i>
