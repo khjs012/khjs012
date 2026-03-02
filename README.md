@@ -7,7 +7,7 @@
   <table border="0" cellpadding="0" cellspacing="0" align="center">
     <tr>
       <td align="left" valign="middle">
-        <!-- 左边：换成“启动”表情包 -->
+        <!-- 左边：启动表情包 -->
         <img src="assets/launch.jpg" width="120" alt="Launch" />
       </td>
       <td align="center" valign="middle" style="padding: 0 20px;">
@@ -30,18 +30,26 @@
 
 ### 🛠️ 技术栈 | Tech Stack
 <div align="center">
-  <p>
-    <!-- 左侧启动表情包 -->
-    <img src="assets/launch.jpg" width="100" style="vertical-align: middle; margin-right: 15px;" />
-    
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-    <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" />
-    <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-    
-    <!-- 右侧启动表情包 -->
-    <img src="assets/launch.jpg" width="100" style="vertical-align: middle; margin-left: 15px;" />
-  </p>
+  <table border="0" cellpadding="0" cellspacing="0" align="center">
+    <tr>
+      <td align="left" valign="middle">
+        <!-- 技术栈左侧：启动表情包 -->
+        <img src="assets/launch.jpg" width="100" alt="Launch Left" />
+      </td>
+      <td align="center" valign="middle" style="padding: 0 30px;">
+        <p>
+          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+          <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+          <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" />
+          <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+        </p>
+      </td>
+      <td align="right" valign="middle">
+        <!-- 技术栈右侧：启动表情包 -->
+        <img src="assets/launch.jpg" width="100" alt="Launch Right" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
@@ -50,7 +58,7 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=khjs012&theme=rose_pine" width="80%" />
   <br/>
-  <!-- 这里换成原来的“别难过”表情包 (aemis_1.gif) -->
+  <!-- 活跃度下方：别难过表情包 (aemis_1.gif) -->
   <img src="assets/aemis_1.gif" width="200" alt="Don't be sad" />
 </div>
 
