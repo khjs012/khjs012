@@ -13,7 +13,7 @@
       <td align="center" valign="middle" style="padding: 0 20px;">
         <p>
           🔭 潮起无声，潮落生鸣。 🌊<br/>
-          🌱 学习领域：<b>Python, 计算机视觉, UI 自动化</b><br/>
+          🌱 学习领域：<b>Python, 计算机视觉, UI 自动化 逆向</b><br/>
           💬<b>游戏脚本开发, 自动化, GitHub 工作流 Java 前端 web</b><br/>
           ✨ <b>"Hi~ 想我了吗？♪"</b> —— <i>爱莉希雅</i>
         </p>
