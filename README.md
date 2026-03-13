@@ -75,7 +75,7 @@
   <a href="https://qm.qq.com/q/JEGTsnfhak" target="_blank">
     <img src="https://img.shields.io/badge/QQ_Group-xal-12B7F5?style=for-the-badge&logo=tencent-qq&logoColor=white" />
   </a>
-  <a href="https://space.bilibili.com/3493264426540608" target="_blank">
+  <a href="https://space.bilibili.com/514894604" target="_blank">
     <img src="https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white" />
   </a>
 </p>
